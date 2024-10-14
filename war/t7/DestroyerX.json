@@ -1,0 +1,16 @@
+{
+  "name": "t7-DestroyerX",
+  "version": "1.0",
+  "authors": [
+    "mangG907",
+    "kimwonjoon"
+  ],
+  "description": "두려워해라, 나는 모든 것의 종말이다.",
+  "homepage": "",
+  "countryCodes": [
+    "us",
+    "dk"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
